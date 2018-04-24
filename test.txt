@@ -1,1 +1,24 @@
-testing purpose
+Git and Github training topics
+
+What's Version Control
+What's Git
+Downloading and Installing Git
+Create your local repository folder
+Create your SSH Key
+What's GitHub?
+Set up your GitHub account
+Creating a new repository
+Deleting and renaming repositories
+Fork a repository
+Push changes to a repository
+Clone a public project
+Add collaborators to a project
+Collaborate with other users
+Send a pull request
+Merge changes from a pull request
+Watch projects and people
+Use project wikis
+Create and delete branches and tags
+Create GitHub pages
+Gist
+Exercises
